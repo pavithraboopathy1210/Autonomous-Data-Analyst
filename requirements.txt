@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+psycopg2-binary
+SQLAlchemy
+python-dotenv
+langchain-core
+langchain-google-genai
+langgraph
+streamlit
+openpyxl
+xlrd

@@ -1,0 +1,21 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Python and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local datasets and generated artifacts
+uploads/
+cleaned_data/
+data/
+reports/
+visualizations/
+ouputs/
+outputs/
+*.log
